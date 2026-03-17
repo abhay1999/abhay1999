@@ -91,7 +91,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay1999&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay1999&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay1999&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
@@ -100,7 +100,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay1999&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay1999&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
