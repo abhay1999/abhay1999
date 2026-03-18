@@ -34,6 +34,7 @@
 | Project | Contribution | Status |
 |:--------|:-------------|:------:|
 | [**helm/helm**](https://github.com/helm/helm) | [#31931 — pkg/kube: remove legacy import comments](https://github.com/helm/helm/pull/31931) | ✅ Merged |
+| [**goreleaser/goreleaser**](https://github.com/goreleaser/goreleaser) | [#6462 — fix: filterOut returns excluded tag when multiple ignore_tags are set](https://github.com/goreleaser/goreleaser/pull/6462) | ✅ Merged |
 
 </div>
 
