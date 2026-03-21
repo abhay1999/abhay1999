@@ -19,7 +19,7 @@
 
 - 🚀 **DevOps Engineer** with 3+ years of experience in cloud infrastructure, CI/CD automation, and container orchestration
 - 🌐 **Full Stack Developer** — comfortable from frontend (React/TypeScript) to backend APIs and databases
-- 🛠️ **Open Source Contributor** — merged PR in [**helm/helm**](https://github.com/helm/helm) (The Kubernetes Package Manager, 29k+ ⭐)
+- 🛠️ **Open Source Contributor** — merged PRs in [**helm/helm**](https://github.com/helm/helm) (The Kubernetes Package Manager, 29k+ ⭐) & [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) (Distributed Tracing Platform, 21k+ ⭐)
 - ☁️ Deep hands-on experience with **AWS, GCP, Kubernetes, Terraform, and GitOps**
 - 🔭 Currently exploring **platform engineering**, observability stacks, and developer experience (DX)
 - 🎓 **IIIT Gwalior** alumnus with strong foundations in algorithms, cryptography & DSA
@@ -33,8 +33,10 @@
 
 | Project | Contribution | Status |
 |:--------|:-------------|:------:|
+| [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) | [#8215 — feat(monitor): restore Grafana to SPM docker-compose example (ADR-007 Step 1)](https://github.com/jaegertracing/jaeger/pull/8215) | ✅ Merged |
 | [**helm/helm**](https://github.com/helm/helm) | [#31931 — pkg/kube: remove legacy import comments](https://github.com/helm/helm/pull/31931) | ✅ Merged |
 | [**goreleaser/goreleaser**](https://github.com/goreleaser/goreleaser) | [#6462 — fix: filterOut returns excluded tag when multiple ignore_tags are set](https://github.com/goreleaser/goreleaser/pull/6462) | ✅ Merged |
+
 
 </div>
 
