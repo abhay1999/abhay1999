@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abhay%20Chaurasiya&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Full%20Stack%20Developer&descAlignY=55&descColor=8b949e" alt="header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=DevOps+Engineer+%7C+Cloud+%26+Infra+Enthusiast;Open+Source+Contributor+%40+helm%2Fhelm;Full+Stack+Developer+%7C+3%2B+Years+Experience)](https://git.io/typing-svg)
@@ -8,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=abhay1999&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="profile views"/>
   <a href="https://github.com/abhay1999?tab=followers"><img src="https://img.shields.io/github/followers/abhay1999?label=Followers&style=for-the-badge&color=58a6ff" alt="followers"/></a>
 </p>
-
 </div>
 
 ---
@@ -19,7 +17,7 @@
 
 - 🚀 **DevOps Engineer** with 3+ years of experience in cloud infrastructure, CI/CD automation, and container orchestration
 - 🌐 **Full Stack Developer** — comfortable from frontend (React/TypeScript) to backend APIs and databases
-- 🛠️ **Open Source Contributor** — merged PRs in [**helm/helm**](https://github.com/helm/helm) (The Kubernetes Package Manager, 29k+ ⭐) & [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) (Distributed Tracing Platform, 21k+ ⭐)
+- 🛠️ **Open Source Contributor** — merged PRs in [**helm/helm**](https://github.com/helm/helm) (The Kubernetes Package Manager, 29k+ ⭐), [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) (Distributed Tracing Platform, 21k+ ⭐), [**golang/tools**](https://github.com/golang/tools) (Official Go Tools, 8k+ ⭐) & [**goreleaser/goreleaser**](https://github.com/goreleaser/goreleaser) (Release Automation, 14k+ ⭐)
 - ☁️ Deep hands-on experience with **AWS, GCP, Kubernetes, Terraform, and GitOps**
 - 🔭 Currently exploring **platform engineering**, observability stacks, and developer experience (DX)
 - 🎓 **IIIT Gwalior** alumnus with strong foundations in algorithms, cryptography & DSA
@@ -33,10 +31,13 @@
 
 | Project | Contribution | Status |
 |:--------|:-------------|:------:|
+| [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) | [#8242 — fix(jaegermcp): Enforce response limits](https://github.com/jaegertracing/jaeger/pull/8242) | ✅ Merged |
+| [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) | [#8240 — ci(monitor): add dashboard sync check for Go SDK generator (ADR-007 Step 3)](https://github.com/jaegertracing/jaeger/pull/8240) | ✅ Merged |
+| [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) | [#8216 — feat(monitor): Go SDK dashboard generator — ADR-007 Step 2a](https://github.com/jaegertracing/jaeger/pull/8216) | ✅ Merged |
 | [**jaegertracing/jaeger**](https://github.com/jaegertracing/jaeger) | [#8215 — feat(monitor): restore Grafana to SPM docker-compose example (ADR-007 Step 1)](https://github.com/jaegertracing/jaeger/pull/8215) | ✅ Merged |
-| [**helm/helm**](https://github.com/helm/helm) | [#31931 — pkg/kube: remove legacy import comments](https://github.com/helm/helm/pull/31931) | ✅ Merged |
+| [**golang/tools**](https://github.com/golang/tools) | [#627 — go/analysis/passes/modernize: add slicesbackward analyzer](https://github.com/golang/tools/pull/627) | ✅ Merged |
 | [**goreleaser/goreleaser**](https://github.com/goreleaser/goreleaser) | [#6462 — fix: filterOut returns excluded tag when multiple ignore_tags are set](https://github.com/goreleaser/goreleaser/pull/6462) | ✅ Merged |
-
+| [**helm/helm**](https://github.com/helm/helm) | [#31931 — pkg/kube: remove legacy import comments](https://github.com/helm/helm/pull/31931) | ✅ Merged |
 
 </div>
 
@@ -136,9 +137,7 @@ current_focus:
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" alt="footer"/>
 
 *"Infrastructure as code, collaboration as culture."*
-
 </div>
